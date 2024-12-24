@@ -62,7 +62,7 @@
   - **If the sleigh is damaged:**
     - A **DC 10 Survival** check can provide a makeshift fix.
   - The battle is set against the backdrop of the sleigh's rapid flight, offering opportunities for creative combat.
-![snow-golem](portraits/monsters/snow-golem.png)
+![snow-golem](portraits/monsters/no-bg/snow-golem.png)
 ![snow-golem-stats](stat-blocks/snow-golem.png)
 - **Monster Parts**
     - **x8 Snow Golem Teeth**
@@ -116,7 +116,7 @@
 
 #### **Optional Mimic Encounter**
 **[Music, Zant Battle](https://www.youtube.com/watch?v=fp3r5HodpTE)**
-![present-mimic](portraits/monsters/present-mimic.jpg)
+![present-mimic](portraits/monsters/no-bg/present-mimic.png)
 ![present-mimic](stat-blocks/mimic.png)
 
 ---
@@ -168,7 +168,7 @@
 - *"The sprites circle chaotically, their movements erratic and unpredictable. Their glowing eyes glint with mischievous glee as they screech and giggle, their voices chiming like shattered icicles. One sprite zips forward, squealing*, 'You'll never make it! Turn back while you can!' *before dissolving into another fit of raucous laughter. They dart in and out of the shadows, taunting and jeering, but make no move to attack."*
 
 ![ice-sprite](stat-blocks/ice-sprite.png)
-![ice-sprite](portraits/monsters/ice-sprite.jpg)
+![ice-sprite](portraits/monsters/no-bg/ice-sprite.png)
 
 
 **Actions and Outcomes**
@@ -248,7 +248,7 @@
 
 
 ![frost-goblin](stat-blocks/frost-goblin.png)
-![frost-goblin](portraits/monsters/frost-goblin.jpg)
+![frost-goblin](portraits/monsters/no-bg/frost-goblin.png)
 
 - **After defeating or driving off the goblins:**
   - Among the rubble, a successful **DC 12 Investigation (Intelligence)** or **DC 14 Perception (Wisdom)** check reveals **Kringle's Favorite Candy Cane** buried beneath a pile of smashed jars.
@@ -269,7 +269,10 @@
 
 ---
 
-### **4. The Workshop Itself**
+### **4. The Workshop Lower Levels**
+
+![workshop-underground](maps/dm/workshop-underground.png)
+
 **[Ambience, Snowfall with Crackling Fireplace](https://www.youtube.com/watch?v=XFidh8FLE40)**
 
 **[Music, I must rest here a moment](https://www.youtube.com/watch?v=IXsWr2CK4SI)**
@@ -302,7 +305,7 @@
 - **Approaching the Holiday Tree:**
    - The tree is a **Mimic in disguise**.
 
-![christmas-tree-mimic](portraits/monsters/christmas-tree-mimic.webp)
+![christmas-tree-mimic](portraits/monsters/no-bg/christmas-tree-mimic.png)
 ![christmas-tree-mimic](stat-blocks/mimic.png)
    - Players must roll **Passive Perception** against the **Mimic's Stealth check** to detect its nature.
      - **[Music, When you've realized you've made a terrible mistake](https://www.youtube.com/watch?v=ggt9Lz6FzLg)**
@@ -316,13 +319,13 @@
      - **1 Snowy Bugbear**
 
 ![frost-goblin](stat-blocks/frost-goblin.png)
-![frost-goblin](portraits/monsters/frost-goblin.jpg)
+![frost-goblin](portraits/monsters/no-bg/frost-goblin.png)
 
 ![frosty-winged-kobold](stat-blocks/frosty-winged-kobold.png)
-![frosty-winged-kobold](portraits/monsters/frosty-winged-kobold.jpg)
+![frosty-winged-kobold](portraits/monsters/no-bg/frosty-winged-kobold.png)
 
 ![snowy-bugbear](stat-blocks/snowy-bugbear.png)
-![snowy-bugbear](portraits/monsters/snowy-bugbear.png)
+![snowy-bugbear](portraits/monsters/no-bg/snowy-bugbear.png)
 
 
 **Combat Dynamics**
@@ -366,10 +369,10 @@
 
 
 ![frosty-winged-kobold](stat-blocks/frosty-winged-kobold.png)
-![frosty-winged-kobold](portraits/monsters/frosty-winged-kobold.jpg)
+![frosty-winged-kobold](portraits/monsters/no-bg/frosty-winged-kobold.png)
 
 ![ice-sprite](stat-blocks/ice-sprite.png)
-![ice-sprite](portraits/monsters/ice-sprite.jpg)
+![ice-sprite](portraits/monsters/no-bg/ice-sprite.png)
 
 **Actions and Outcomes**
 - **If the party engages the Frosty-Winged Kobolds and Ice Sprites in combat:**
@@ -441,7 +444,7 @@
   - If the party resists intimidation, the creature focuses on **melee attacks**, using its size and strength to **block access** to the **pantry**.
 
 ![snowy-bugbear](stat-blocks/snowy-bugbear.png)
-![snowy-bugbear](portraits/monsters/snowy-bugbear.png)
+![snowy-bugbear](portraits/monsters/no-bg/snowy-bugbear.png)
 - **When the Snowy Bugbear is defeated:**
    - **The Elves:**
      - The **three Kringle Elves** cautiously emerge from hiding, their tear-streaked faces lighting up with gratitude. They thank the party profusely, clinging to their protectors.
