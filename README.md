@@ -62,16 +62,30 @@
   - **If the sleigh is damaged:**
     - A **DC 10 Survival** check can provide a makeshift fix.
   - The battle is set against the backdrop of the sleigh's rapid flight, offering opportunities for creative combat.
-![snow-golem](monster-portraits/snow-golem.png)
+![snow-golem](portraits/monsters/snow-golem.png)
 ![snow-golem-stats](stat-blocks/snow-golem.png)
-- **Loot**
+- **Monster Parts**
     - **x8 Snow Golem Teeth**
       - Ice cubes that permanently at 32 degrees Fahrenheit.
+
+---
+
+**Snow Golem Teeth**
+
+*Wondrous Item, Common*
+
+**Description:**
+- *"These icy, jagged teeth, harvested from the frozen maw of a Snow Golem, are cold to the touch and perpetually maintain a temperature of 32 degrees Fahrenheit. Each tooth is semi-translucent, faintly glowing with an inner frost."*
+
+**Properties:**
+  - **Perpetual Cold:** These teeth can be used as a source of cold, perfect for chilling drinks or preserving perishable items.
+
+---
 
 ### **2. Exploring the North Pole Village**
 **[Music & Ambience, Snowed in at Rito Village](https://www.youtube.com/watch?v=ZgA2PUq4-OY)**
 
-![north-pole](dm-maps/north-pole.png)
+![north-pole](maps/dm/north-pole.png)
 
 **Read-Aloud Text:**
 - *"You arrive at the **North Pole** as the sleigh lands gently in the center of a round courtyard. The village looks like something out of a storybook--candy-colored cobblestone streets twist between gingerbread-like buildings with a thick frosting of snow on their roofs. Bright, festive lights twinkle merrily in every direction, casting a warm glow across the scene."*
@@ -102,13 +116,13 @@
 
 #### **Optional Mimic Encounter**
 **[Music, Zant Battle](https://www.youtube.com/watch?v=fp3r5HodpTE)**
-![present-mimic](monster-portraits/present-mimic.jpg)
+![present-mimic](portraits/monsters/present-mimic.jpg)
 ![present-mimic](stat-blocks/mimic.png)
 
 ---
 
 ## **Santa's Workshop**
-![workshop-ground-floor](dm-maps/workshop-ground-floor.png)
+![workshop-ground-floor](maps/dm/workshop-ground-floor.png)
 ### **Approaching the Workshop**
 - **[Ambience, Crunching Snow](https://www.youtube.com/watch?v=a_oqcg0hvpo)**
 - **[Ambience, Winter Winds](https://www.youtube.com/watch?v=1WY15_9xhcg)**
@@ -154,7 +168,7 @@
 - *"The sprites circle chaotically, their movements erratic and unpredictable. Their glowing eyes glint with mischievous glee as they screech and giggle, their voices chiming like shattered icicles. One sprite zips forward, squealing*, 'You'll never make it! Turn back while you can!' *before dissolving into another fit of raucous laughter. They dart in and out of the shadows, taunting and jeering, but make no move to attack."*
 
 ![ice-sprite](stat-blocks/ice-sprite.png)
-![ice-sprite](monster-portraits/ice-sprite.jpg)
+![ice-sprite](portraits/monsters/ice-sprite.jpg)
 
 
 **Actions and Outcomes**
@@ -234,21 +248,24 @@
 
 
 ![frost-goblin](stat-blocks/frost-goblin.png)
-![frost-goblin](monster-portraits/frost-goblin.jpg)
+![frost-goblin](portraits/monsters/frost-goblin.jpg)
 
 - **After defeating or driving off the goblins:**
   - Among the rubble, a successful **DC 12 Investigation (Intelligence)** or **DC 14 Perception (Wisdom)** check reveals **Kringle's Favorite Candy Cane** buried beneath a pile of smashed jars.
 
 ---
 
-#### **Kringle's Favorite Candy Cane**
+**Kringle's Favorite Candy Cane**
+
 *Magic Item, Common*
 
-*"If you've ever seen a more perfect candy cane, you can't think of it. The plastic comes off without breaking the cane, the stripes are perfectly even, and the pepperminty taste is beyond perfection."*
+**Description:**
+- *"If you've ever seen a more perfect candy cane, you can't think of it. The plastic comes off without breaking the cane, the stripes are perfectly even, and the pepperminty taste is beyond perfection."*
 
+**Properties:**
 - **Arcane Focus:** Can be used as an arcane focus for spellcasting.
-- **Frosty Power:** Adds **+1 Cold Damage** to all spell damage rolls.
-- **Sweet Refreshment:** Once per day, as a free action, you can lick the candy cane to restore **1d4 HP**. This ability resets after a long rest.
+- **Frosty Power:** Adds **+1 Cold Damage** to all **spell damage rolls**. This effect does not stack with additional effects that increase Cold Damage.
+- **Sweet Refreshment:** Once per day, you can suck the candy cane for **6 seconds** (equivalent to a round of combat) to restore 1d4 HP. This ability resets after a long rest. The candy cane disappears after 100 uses.
 
 ---
 
@@ -285,7 +302,7 @@
 - **Approaching the Holiday Tree:**
    - The tree is a **Mimic in disguise**.
 
-![christmas-tree-mimic](monster-portraits/christmas-tree-mimic.webp)
+![christmas-tree-mimic](portraits/monsters/christmas-tree-mimic.webp)
 ![christmas-tree-mimic](stat-blocks/mimic.png)
    - Players must roll **Passive Perception** against the **Mimic's Stealth check** to detect its nature.
      - **[Music, When you've realized you've made a terrible mistake](https://www.youtube.com/watch?v=ggt9Lz6FzLg)**
@@ -299,13 +316,13 @@
      - **1 Snowy Bugbear**
 
 ![frost-goblin](stat-blocks/frost-goblin.png)
-![frost-goblin](monster-portraits/frost-goblin.jpg)
+![frost-goblin](portraits/monsters/frost-goblin.jpg)
 
 ![frosty-winged-kobold](stat-blocks/frosty-winged-kobold.png)
-![frosty-winged-kobold](monster-portraits/frosty-winged-kobold.jpg)
+![frosty-winged-kobold](portraits/monsters/frosty-winged-kobold.jpg)
 
 ![snowy-bugbear](stat-blocks/snowy-bugbear.png)
-![snowy-bugbear](monster-portraits/snowy-bugbear.png)
+![snowy-bugbear](portraits/monsters/snowy-bugbear.png)
 
 
 **Combat Dynamics**
@@ -323,14 +340,17 @@
 
 ---
 
-#### **Bag of Butterbill's Boot**
+**Bag of Butternugs' Boot**
+
 *Magic Item, Common*
 
-The bag's label reads: *"Fiending for something? Poor and dirty? Want something to do to waste the day away and give yourself a repugnant smell? Try this boot pipeweed shake. It tastes like boot. You'll also probably get cold as your circulation wanes, causing you to feel the bite of the wind just a little bit more. That's it. We are not liable if this product burns your lungs or you lose friends from the smell that will cling to your clothes. Maybe if you get a job you'll be able to afford something better, but until then, at least you have this boot shake."*
+**Description:**
+- **The bag's label reads:** *"Fiending for something? Poor and dirty? Want something to do to waste the day away and give yourself a repugnant smell? Try this boot pipeweed shake. It tastes like boot. You'll also probably get cold as your circulation wanes, causing you to feel the bite of the wind just a little bit more. That's it. We are not liable if this product burns your lungs or you lose friends from the smell that will cling to your clothes. Maybe if you get a job you'll be able to afford something better, but until then, at least you have this boot shake."*
 
-- This pipeweed shake is distributed Randy Butterbill, a trader and wholesaler in Baldur's Gate who runs several pipeweed farms out of Goldenfields.
-- Each bag contains enough for 20 smoke sessions, and after smoking, the smoker rolls a d20.
-- An even number grants a **+1 bonus to Perception** checks for **1 hour**.
+**Properties**
+- This pipeweed shake is distributed **Randy Butternugs**, a trader and wholesaler in Baldur's Gate who runs several pipeweed farms out of Goldenfields.
+- Each bag contains enough for **20 smoke sessions**, and after smoking, the smoker rolls a **d20**.
+- An even number grants a **+1 bonus** to **Perception** checks for **1 hour**.
 
 ---
 
@@ -346,10 +366,10 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
 
 
 ![frosty-winged-kobold](stat-blocks/frosty-winged-kobold.png)
-![frosty-winged-kobold](monster-portraits/frosty-winged-kobold.jpg)
+![frosty-winged-kobold](portraits/monsters/frosty-winged-kobold.jpg)
 
 ![ice-sprite](stat-blocks/ice-sprite.png)
-![ice-sprite](monster-portraits/ice-sprite.jpg)
+![ice-sprite](portraits/monsters/ice-sprite.jpg)
 
 **Actions and Outcomes**
 - **If the party engages the Frosty-Winged Kobolds and Ice Sprites in combat:**
@@ -380,9 +400,7 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
 
 **Actions and Outcomes**
 - **When the players spin the handle:**
-
-**[Music, A Playlist for Eating at 3AM](https://youtu.be/qJPqVgRXUMY?list=PLNNcnzpsYSXNI5iiiPY9qwtkGNnbfFOw-&t=1505)**
-
+  - **[Music, A Playlist for Eating at 3AM](https://youtu.be/qJPqVgRXUMY?list=PLNNcnzpsYSXNI5iiiPY9qwtkGNnbfFOw-&t=1505)**
   - *"As the handle begins to spin, the soft strains of a merry **holiday tune** fill the air. The notes ring out perfectly clear and unwavering, cutting through the tension and offering a brief glimpse of what life at the North Pole might have once been--a moment of pure, unbroken cheer. Then, with a sharp* pop, *the lid springs open, and from the box emerges a colorful, cheerful Jack. His painted smile widens, his bright eyes twinkle, and in a jolly voice, he tilts his head and asks,* 'What would you like from Santa this year?'*"*
 - **If the party responds sincerely:**
   - Jack listens intently, nodding sagely before disappearing back into the box.
@@ -423,7 +441,7 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
   - If the party resists intimidation, the creature focuses on **melee attacks**, using its size and strength to **block access** to the **pantry**.
 
 ![snowy-bugbear](stat-blocks/snowy-bugbear.png)
-![snowy-bugbear](monster-portraits/snowy-bugbear.png)
+![snowy-bugbear](portraits/monsters/snowy-bugbear.png)
 - **When the Snowy Bugbear is defeated:**
    - **The Elves:**
      - The **three Kringle Elves** cautiously emerge from hiding, their tear-streaked faces lighting up with gratitude. They thank the party profusely, clinging to their protectors.
@@ -439,8 +457,21 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
   - **DC 12:** *"In one corner, a small desk sits with stacks of unfinished paperwork scattered haphazardly across its surface. It seems that an elf clerk once worked here to track inventory, their meticulous records now abandoned amidst the chaos."*
   - **DC 15:**
   - The party finds a **Scroll of Endless Gift Wrap**.
-      - Wondrous Item *(Common, Consumable)*
-      - *"This ornate scroll is adorned with festive patterns of holly, snowflakes, and candy canes. When unfurled, it reveals an endless length of brightly colored gift wrap that shimmers with a faint magical glow. The perfect tool for wrapping presents."*
+
+---
+
+**Scroll of Endless Gift Wrap**
+
+*Wondrous Item, Common (Consumable)*
+
+**Description:**
+- *"This ornate scroll is decorated with vibrant holiday patterns of holly, snowflakes, and candy canes. When unfurled, it produces an endless length of beautifully colored gift wrap that shimmers with a faint magical glow, perfect for wrapping presents of any size or shape."*
+
+**Properties:**
+- The scroll can produce up to **50 feet of gift wrap per day**, regenerating its magic at dawn.
+- The wrapping paper is magically adhesive, requiring no tape or string to seal and providing a perfectly snug fit.
+- Any present wrapped with this paper radiates a faint aura of warmth and holiday cheer.
+- Once the scroll has been used to wrap presents for the day, it rolls itself back up, and the ream's seam disappears.
 
 ---
 
@@ -488,6 +519,21 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
          - *"As you peer into the bag, you're greeted by a whimsical, miniature world that seems far too large for the bag's exterior. The interior glimmers with soft, multicolored lights strung along the edges of the seemingly infinite space. Snowflakes drift lazily in the air, never melting, and the floor is a patchwork of candy-cane stripes and shimmering golden glitter. Neatly stacked presents of every size and color fill the space, their ribbons curling like festive tendrils of magic. The faint aroma of peppermint and gingerbread wafts out, and a distant, cheerful jingle plays softly, as though the bag itself hums with the spirit of the season."*
 - **Examining the Locked Stairway Door**
   - *"Before you is sturdy, intricately carved door. Swirling holiday patterns of holly and snowflakes dance across its surface, though the unyielding lock glints coldly in the dim light. The door stands silent and immovable, exuding an air of foreboding."*
+
+---
+
+**Holiday Bag of Holding**
+
+*Wondrous Item, Common*
+
+**Description:**
+- *"These luxurious, velvet bags are the richest, softest, silkiest, and most vibrant you’ve ever seen. Their shimmering colors glimmer with an otherworldly sheen while their drawstring ties sparkling like tinsel. Each bag exudes a strong aura of the Spirit of Christmas."*
+
+- **Properties:**
+  - **First Opening:** Upon opening the a potential Holiday Bag of Holding for the first time, roll a d20:
+    - On a **20**, the bag transforms into a **Holiday Bag of Holding**, functioning as a standard Bag of Holding (weight limit up to 500 lbs) but with **three times the capacity** (for a total of up to 192 cubic feet).
+    - On any other result, the bag is ordinary, albeit stunningly festive, and serves no magical purpose.
+  - **Non-Magical Use:** Even as a mundane item, the bag is remarkably durable and perfect for carrying regular items in style.
 
 ---
 
@@ -600,7 +646,7 @@ The bag's label reads: *"Fiending for something? Poor and dirty? Want something 
   - **[Rocky Inspirational Speech (for reference)](https://youtu.be/D_Vg4uyYwEk?t=98)**
   - *"Let me tell ya somethin' you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place, and I don't care how tough you are, it'll beat ya to your knees and keep ya there permanently if ya let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard ya can get hit and keep movin' forward. How much ya can take and keep movin' forward. That's how winnin' is done! Now, if ya know what you're worth, then go out and get what you're worth. But ya gotta be willin' to take the hits, and not pointin' fingers sayin' ya ain't where ya wanna be 'cause of him, or her, or anybody! Cowards do that, and that ain't you! You're better than that!"*
 
-**[Music, recalling moments of a christmas that never happened (playlist)](https://www.youtube.com/watch?v=1R7p8ur05sk)**
+- **[Music, recalling moments of a christmas that never happened (playlist)](https://www.youtube.com/watch?v=1R7p8ur05sk)**
 - *"Santa turns to you one last time, his smile full of warmth.* 'You'll always be welcome here at the North Pole. Remember, the spirit of Christmas isn't just magic--it's the joy you bring to others. Thank you, my friends.' *He then turns around, walking hand and hand with Carol back to the Workshop."*
 - ***Siff**, **Thrinn**, **Brok**, **Kari**, and **Miles** eagerly gather you, their faces aglow with gratitude, and insist that you return with them to the Blushing Reindeer Inn. As you arrive, the warmth of the hearth greets you once more, and mugs of steaming cocoa are set before you at your familiar corner booth by the great window. As you sip the rich, spiced brew, your thoughts drift to the trials you've faced and the bonds forged along the way. The air inside hums with the murmur of friends catching up after a long time.*
 - *Beyond the frosted glass, the **crescent moon** casts its silvery light over the **snow-blanketed village**, where the **twinkling stars** seem to dance in harmony with the faint sound of **children's laughter**. The snow falls softly, blanketing Fishslap Harbor in a serene peace, as if everything is paused to celebrate the season's blessings.*
