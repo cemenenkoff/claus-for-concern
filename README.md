@@ -1,8 +1,11 @@
 ## **0. Introduction**
-**Read-Aloud Text:**
-- **[Ambience, Winter Wind](https://www.youtube.com/watch?v=1WY15_9xhcg)**: *"The village of **Fishslap Harbor** nestles against the icy expanse of the frozen **Lake Silverscale**--its modest buildings blanketed by thick layers of snow. The air is crisp and still--broken only by the occasional creak of ice shifting and scraping in the harbor. Snow falls softly, its flakes drifting lazily in the dim twilight; coating the cobblestone streets and muffling every sound."*
+**[Ambience, Winter Wind](https://www.youtube.com/watch?v=1WY15_9xhcg)**
 
-- **[Music, Christmas in Skyrim](https://www.youtube.com/watch?v=pKbZF1NvY-o)**: *"At the heart of the village, the windows of the **Blushing Reindeer Inn** glow like a sunset, an inviting refuge from the winter's chill. Inside, you sit around a large dining table near the central hearth where hearty meats sizzle over the flames. The rich scents of spiced cider and roasting venison fill the air, warmly blending with the radiating heat of the crackling fireplace. The flames cast long, flickering shadows across the rough-hewn wooden beams, adding to the inn's rustic charm. Laughter and the clink of mugs echo softly, a soothing counterpoint to the biting silence outside. For now, the cares of the world seem distant, and the inn's cozy embrace shields you from the harsh grasp of winter."*
+**Read-Aloud Text:**
+- *"The village of **Fishslap Harbor** nestles against the icy expanse of the frozen **Lake Silverscale**--its modest buildings blanketed by thick layers of snow. The air is crisp and still--broken only by the occasional creak of ice shifting and scraping in the harbor. Snow falls softly, its flakes drifting lazily in the dim twilight; coating the cobblestone streets and muffling every sound."*
+
+- **[Music, Christmas in Skyrim](https://www.youtube.com/watch?v=pKbZF1NvY-o)**
+- *"At the heart of the village, the windows of the **Blushing Reindeer Inn** glow like a sunset, an inviting refuge from the winter's chill. Inside, you sit around a large dining table near the central hearth where hearty meats sizzle over the flames. The rich scents of spiced cider and roasting venison fill the air, warmly blending with the radiating heat of the crackling fireplace. The flames cast long, flickering shadows across the rough-hewn wooden beams, adding to the inn's rustic charm. Laughter and the clink of mugs echo softly, a soothing counterpoint to the biting silence outside. For now, the cares of the world seem distant, and the inn's cozy embrace shields you from the harsh grasp of winter."*
 - *"The tavern door creaks open, letting in a gust of frosty air and a flurry of snowflakes as a band of **five Kringle Elves** steps inside. At their head stands what appears to be a little girl, her rosy cheeks and determined expression framed by a thick, fur-lined white hood. The barmaid looks up from her work and calls out warmly,* "Oi, **Siff**! Take a load off an' warm yerself by the fire. I'll get yer lot some spiced cider an' a bit o' roasted pheasant stew in a tick."
 - *"A small crowd of villagers gathers near the fire, their laughter and stories rising above the clink of mugs. Among them now stands the group of Kringle Elves, their colorful winter gear and pointed hats setting them apart. **Siff**, their leader, steps forward--a small figure with piercing eyes and a presence that belies her size. Her companions, though cheerful, glance nervously at each other. One however, stares blankly into the flames, his hands trembling slightly."*
 - *Siff glances around the room, her sharp eyes scanning the faces all around you. When her gaze lands on your corner table, one by a large, floor-to-ceiling window with a view of the village, she pauses. After a moment of intent observation, she motions for her companions to follow and strides purposefully toward you."*
@@ -64,9 +67,8 @@
   - The battle is set against the backdrop of the sleigh's rapid flight, offering opportunities for creative combat.
 ![snow-golem](portraits/monsters/no-bg/snow-golem.png)
 ![snow-golem-stats](stat-blocks/snow-golem.png)
-- **Monster Parts**
-    - **x8 Snow Golem Teeth**
-      - Ice cubes that permanently at 32 degrees Fahrenheit.
+- **Useful Monster Parts**
+    - Defeating the golems yields **x8 Snow Golem Teeth**--effectively permanent ice cubes.
 
 ---
 
@@ -364,8 +366,8 @@
 **[Music, I must rest here a moment](https://www.youtube.com/watch?v=IXsWr2CK4SI)**
 
 **Read-Aloud Text**
-- *"This room is a chaotic scene of fear and mischief. In the far corner, a group of Kringle Elves huddles together, their small forms trembling as their wide eyes dart about in panic. Above them, four Frosty-Winged Kobolds circle like vultures, their translucent wings shimmering as they beat the air with an unsettling rhythm. Their shrill laughter echoes through the space as they taunt the elves, occasionally diving low to send icy chills skittering across the ground."*
-- *"Around the corner, the sound of giggling hints at another source of chaos. Two Ice Sprites hide in the shadows, their tiny forms barely visible as they gleefully rip open boxes and bags of toys. With wicked precision, they fling the contents toward the huddled elves, adding to the mess of broken trinkets and shredded wrappings that litter the icy floor. Frost glimmers faintly on every surface, and the bitter chill in the air makes each breath hang visibly before you."*
+- *"This room is a chaotic scene of fear and mischief. In the far corner, a group of Kringle Elves huddles together, their small forms trembling as their wide eyes dart about in panic. Above them, **four Frosty-Winged Kobolds** circle like vultures, their translucent wings shimmering as they beat the air with an unsettling rhythm. Their shrill laughter echoes through the space as they taunt the elves, occasionally diving low to send icy chills skittering across the ground."*
+- *"Around the corner, the sound of giggling hints at another source of chaos. **Two Ice Sprites** hide in the shadows, their tiny forms barely visible as they gleefully rip open boxes and bags of toys. With wicked precision, they fling the contents toward the huddled elves, adding to the mess of broken trinkets and shredded wrappings that litter the icy floor. Frost glimmers faintly on every surface, and the bitter chill in the air makes each breath hang visibly before you."*
 
 
 ![frosty-winged-kobold](stat-blocks/frosty-winged-kobold.png)
