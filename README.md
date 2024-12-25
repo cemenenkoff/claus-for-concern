@@ -117,7 +117,8 @@
 ---
 
 #### **Optional Mimic Encounter**
-**[Music, Zant Battle](https://www.youtube.com/watch?v=fp3r5HodpTE)**
+- **[Music, Zant Battle](https://www.youtube.com/watch?v=fp3r5HodpTE)**
+
 ![present-mimic](portraits/monsters/no-bg/present-mimic.png)
 ![present-mimic](stat-blocks/mimic.png)
 
