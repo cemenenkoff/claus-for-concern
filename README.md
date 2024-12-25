@@ -1,28 +1,28 @@
 ## **0. Introduction**
-**[Ambience, Winter Wind](https://www.youtube.com/watch?v=1WY15_9xhcg)**
+**[Ambience, Winter Wind](https://youtu.be/1WY15_9xhcg?t=0)**
 
 **Read-Aloud Text:**
 - *"The village of **Fishslap Harbor** nestles against the icy expanse of the frozen **Lake Silverscale**--its modest buildings blanketed by thick layers of snow. The air is crisp and still--broken only by the occasional creak of ice shifting and scraping in the harbor. Snow falls softly, its flakes drifting lazily in the dim twilight; coating the cobblestone streets and muffling every sound."*
 
-- **[Music, Christmas in Skyrim](https://www.youtube.com/watch?v=_qgKdOlAH8w)**
+- **[Music, Christmas in Skyrim](https://youtu.be/_qgKdOlAH8w?t=0)**
 - *"At the heart of the village, the windows of the **Blushing Reindeer Inn** glow like a sunset, an inviting refuge from the winter's chill. Inside, you sit around a large dining table near the central hearth where hearty meats sizzle over the flames. The rich scents of spiced cider and roasting venison fill the air, warmly blending with the radiating heat of the crackling fireplace. The flames cast long, flickering shadows across the rough-hewn wooden beams, adding to the inn's rustic charm. Laughter and the clink of mugs echo softly, a soothing counterpoint to the biting silence outside. For now, the cares of the world seem distant, and the inn's cozy embrace shields you from the harsh grasp of winter."*
 - *"The tavern door creaks open, letting in a gust of frosty air and a flurry of snowflakes as a band of **five Kringle Elves** steps inside. At their head stands what appears to be a little girl, her rosy cheeks and determined expression framed by a thick, fur-lined white hood. The barmaid looks up from her work and calls out warmly,* "Oi, **Siff**! Take a load off an' warm yerself by the fire. I'll get yer lot some spiced cider an' a bit o' roasted pheasant stew in a tick."
 - *"A small crowd of villagers gathers near the fire, their laughter and stories rising above the clink of mugs. Among them now stands the group of Kringle Elves, their colorful winter gear and pointed hats setting them apart. **Siff**, their leader, steps forward--a small figure with piercing eyes and a presence that belies her size. Her companions, though cheerful, glance nervously at each other. One however, stares blankly into the flames, his hands trembling slightly."*
 - *Siff glances around the room, her sharp eyes scanning the faces all around you. When her gaze lands on your corner table, one by a large, floor-to-ceiling window with a view of the village, she pauses. After a moment of intent observation, she motions for her companions to follow and strides purposefully toward you."*
 
-### **Key NPCs:**
+### **0.1 Key NPCs:**
 - **Siff**
   - A mature Kringle Elf who appears as a child. She leads a group of loyal elves and seeks the party's aid in rescuing Santa and the Workshop.
 - **Her Crew**
   - **Thrinn**: Stoic but shaken by the events.
   - **Brok, Kari, and Miles**: Each eager to assist but clearly outmatched by the challenges ahead.
 
-### **Opening Dialogue: Setting the Stage**
+### **0.2 Opening Dialogue: Setting the Stage**
 - **Siff's Opening Lines:**
-   - *"Oh, beggin' your pardon, but you might just be exactly who we’ve been looking for! And let me tell you, we’ve been looking high and low--and we’re not known for keeping quiet about it, either!"*
-   - *"You don’t look like the sort from ‘round these parts. Adventurers, are you? We’ve heard tales of your lot passing through Fishslap Harbor. Tell me, are you the kind that knows how to handle a bit of trouble--or a whole heap of it?"*
+   - *"Oh, beggin' your pardon, but you might just be exactly who we've been looking for! And let me tell you, we've been looking high and low--and we're not known for keeping quiet about it, either!"*
+   - *"You don't look like the sort from 'round these parts. Adventurers, are you? We've heard tales of your lot passing through Fishslap Harbor. Tell me, are you the kind that knows how to handle a bit of trouble--or a whole heap of it?"*
 - **Building Trust:**
-   - *"Now, don’t mind me being blunt, but my crew and I’ve come a long way to find help, and we’re fresh out of time for bein’ picky. We just need someone who still believes in the spirit of Christmas--because right now, it’s hangin’ by a thread!"*
+   - *"Now, don't mind me being blunt, but my crew and I've come a long way to find help, and we're fresh out of time for bein' picky. We just need someone who still believes in the spirit of Christmas--because right now, it's hangin' by a thread!"*
 
 **Read-Aloud Text**
 - *"The warmth of the inn is at odds with the tension hanging in the air. Though the elves try to maintain a cheerful demeanor, their glances betray their worry."*
@@ -33,29 +33,29 @@
   - His broken words trail off as the other elves exchange uneasy glances.
 
 - **The Elves' Call to Action**
-  - **M**: *"It’s **Santa** and **Carol Claus**, you see!"* **Miles** chimes in, eyes wide. *"They’re gone--vanished like snow in spring!"*
-  - **B**: *"Taken, they were! And the whole **Workshop**’s crawling with monsters now--vicious things, all claws and teeth. We need someone who’s not afraid to put things right again. What do you say?"* says **Brok**.
-  - **K**: *""If we don’t move quick, **Christmas** won’t just be canceled--it’ll unravel! The magic that keeps the **North Pole** ticking will be gone, just like that!"* says **Kari**.
-  - **S**: *"Look, Santa’s no warrior--never was. He’s joy and kindness wrapped in a red coat. He needs someone with the strength to shield his magic, and, well… we tried, but we’re no match for what’s up there."* **Siff** pauses, leaning in with a hopeful glint. *"What about you? **Can you help us?**"*
+  - **M**: *"It's **Santa** and **Carol Claus**, you see!"* **Miles** chimes in, eyes wide. *"They're gone--vanished like snow in spring!"*
+  - **B**: *"Taken, they were! And the whole **Workshop**'s crawling with monsters now--vicious things, all claws and teeth. We need someone who's not afraid to put things right again. What do you say?"* says **Brok**.
+  - **K**: *""If we don't move quick, **Christmas** won't just be canceled--it'll unravel! The magic that keeps the **North Pole** ticking will be gone, just like that!"* says **Kari**.
+  - **S**: *"Look, Santa's no warrior--never was. He's joy and kindness wrapped in a red coat. He needs someone with the strength to shield his magic, and, well… we tried, but we're no match for what's up there."* **Siff** pauses, leaning in with a hopeful glint. *"What about you? **Can you help us?**"*
 
-### **Siff's Final Pitch**
+### **0.3 Siff's Final Pitch**
    - *"I'll be honest with ye--our pockets aren't exactly a-jinglin' with gold. But what we do offer, well… it's worth far more than coin. You'll earn lifetime membership on **Santa's Nice List**--aye, no matter what mischief you find yerselves in later."*
    - *"And, as a cherry atop the snowdrift, you'll each receive one gift pulled from **Santa's Holiday Bag of Holding**. Who knows? Might be a magical trinket, might be a pair o' socks that never wear out. Either way, it'll be somethin' special, straight from the big man himself. So… what say ye?"*
 
 ---
 
 ## **1. Arriving at the North Pole**
-**[Ambience, Winter Wind](https://www.youtube.com/watch?v=1WY15_9xhcg)**
+**[Ambience, Winter Wind](https://youtu.be/1WY15_9xhcg?t=0)**
 
-**[Ambience, Dog-Pulled Sleigh](https://www.youtube.com/watch?v=YUcZfH2YYN8)**
+**[Ambience, Dog-Pulled Sleigh](https://youtu.be/YUcZfH2YYN8?t=0)**
 
 **Read-Aloud Text:**
 - *"The elves escort you all in their **sleigh**, pulled by **four reindeer**, back to the **North Pole**. Time seems to dilate as the sleigh soars over snow-laden plains, gliding effortlessly across the icy expanse. The frosty wind nips at your faces, but the sight of the auroras dancing across the midnight sky fills you with awe. The faint twinkle of distant lights, marking the North Pole, grows brighter as you approach."*
   - **Reindeer Names**: Pinecone, Silver, Jingle, and Snowdash
 - *"Suddenly, an eerie roar cuts through the stillness, sending a shiver down your spine. A shadow streaks across the moonlit snow below."*
 
-### **Encounter: Snow Golems**
-**[Music, Skyrim Battle Music](https://www.youtube.com/watch?v=FKRLBwiP_Qo)**
+### **1.1 Encounter: Snow Golems**
+**[Music, The Elder Scrolls V: Sovngarde](https://youtu.be/h1PalyWp5zY?t=0)**
 
 - **Description:**
   - *"**Two Snow Golems** emerge from the frosty shadows, their massive forms looming like icy sentinels brought to life. With a grinding rumble, they lift jagged chunks of ice and hurl them toward the sleigh, the frigid projectiles whistling through the air like winter's wrath unleashed. Roll initiative."*
@@ -84,8 +84,8 @@
 
 ---
 
-### **2. Exploring the North Pole Village**
-**[Music & Ambience, Snowed in at Rito Village](https://www.youtube.com/watch?v=ZgA2PUq4-OY)**
+## **2. Exploring the North Pole Village**
+**[Music & Ambience, Snowed in at Rito Village](https://youtu.be/ZgA2PUq4-OY?t=60)**
 
 ![north-pole](maps/dm/north-pole.png)
 
@@ -116,43 +116,43 @@
 
 ---
 
-#### **Optional Mimic Encounter**
-- **[Music, Zant Battle](https://www.youtube.com/watch?v=fp3r5HodpTE)**
+### **2.1 Optional Encounter: Mimic**
+- **[Music, Zant Battle](https://youtu.be/fp3r5HodpTE?t=0)**
 
 ![present-mimic](portraits/monsters/no-bg/present-mimic.png)
 ![present-mimic](stat-blocks/mimic.png)
 
 ---
 
-## **Santa's Workshop**
+## **3. Santa's Workshop**
 ![workshop-ground-floor](maps/dm/workshop-ground-floor.png)
-### **Approaching the Workshop**
-- **[Ambience, Crunching Snow](https://www.youtube.com/watch?v=a_oqcg0hvpo)**
-- **[Ambience, Winter Winds](https://www.youtube.com/watch?v=1WY15_9xhcg)**
+### **3.0 Approaching the Workshop**
+- **[Ambience, Crunching Snow](https://youtu.be/a_oqcg0hvpo?t=4)**
+- **[Ambience, Winter Winds](https://youtu.be/1WY15_9xhcg?t=0)**
 
 **Read-Aloud Text:**
 - *"As you approach the **Workshop**, a sense of unease deepens. The building itself is much smaller than it looks from far off, its red and yellow exterior painted to resemble a giant present complete with ribbon-like trim. One of the two large wooden doors hangs off its hinges, creaking faintly in the icy breeze. Beyond the doorway, you can feel the faint warmth of a fire but see only shadows dancing within. The snow crunches underfoot as you approach the entrance, the silence broken only by the occasional snap of a falling icicle."*
 
 ---
 
-### **1. The Lobby**
-**[Ambience, Cozy Fireplace and Winter Storm](https://www.youtube.com/watch?v=yJjZfrx1nog)**
+### **3.1 The Lobby**
+**[Ambience, Cozy Fireplace and Winter Storm](https://youtu.be/yJjZfrx1nog?t=0)**
 
-**[Music, Cozy Christmas Ambience with Snow and Writing Sounds](https://www.youtube.com/watch?v=K6W8Amgi3ek)**
+**[Ambience, Cozy Fireplace and Winter Storm](https://youtu.be/yJjZfrx1nog?t=0)**
 
 **Read-Aloud Text:**
 - *"The room feels more like a cozy cabin than part of a workshop. Dark wooden floorboards creak beneath your boots, and festive wallpaper, bordered in red and green, lines the walls. Artifacts from many cultures--delicate ornaments, carvings, and illustrations--are proudly displayed, giving the space a sense of unity and joy. A roaring fireplace nestled into the curved wall casts a warm, flickering glow, its flames crackling cheerfully, defying the dark and somber night beyond. The faint sounds of **Christmas music** echo throughout the halls. An open doorway across the room leads deeper into the workshop."*
 
 ---
 
-#### **2. Common Area**
+### **3.2 Common Area**
 **Read-Aloud Text:**
 - *"You step into a room that was once a warm and lively gathering place. Now, chairs, benches, and tables lie scattered and broken, their jagged edges jutting out--reminders of the chaos that unfolded here. The floor is littered with fragments of wood and torn decorations. Amid the wreckage, a pile of unwrapped presents sits atop a long table, their bright paper torn, singed, or charred. What might have been a joyful scene of gift-giving is now a grim tableau of destruction."*
 - *"These gifts weren't opened with eager hands or laughter--they were torn apart in malice. Their contents have been reduced to ashes and scorched fragments, while small fires smolder faintly in the corners of the room. The air carries the acrid scent of burned paper and melted ribbons, a sharp contrast to the faint, lingering smell of peppermint and holiday spices."*
 
 ---
 
-#### 3. Large Common Area
+### **3.3 Large Common Area**
 **Read-Aloud Text:**
 - *"Beyond the initial room, the space opens into a larger common area, its high ceilings and sprawling layout hinting at the joy it once held. The remnants of colorful garlands hang limply from the walls, singed at the edges, while broken decorations litter the floor. At the far corner, a massive **holiday tree** lies toppled on its side, its branches engulfed in **flames**. Ornaments dangle precariously from its smoldering boughs, dropping occasionally with faint tinkling sounds as they shatter on the ground."*
 - *"Behind the burning tree, in the farthest corner of the room, a small group of **Kringle Elves** huddle together, their faces pale with fear. They flinch at every sound, clutching one another tightly as their wide eyes dart toward the destruction around them."*
@@ -163,11 +163,11 @@
 
 ---
 
-#### **3a. Sprites on the Stairs**
+### **3.3.a. Sprites on the Stairs**
 
 **Read-Aloud Text:**
 - *"As you begin your descent, the creaking stairs echo beneath your feet, each sound amplified by the stillness of the air. A chill seeps into the passageway, the temperature dropping with every step. Suddenly, the silence is shattered by a cacophony of high-pitched laughter and the rapid buzz of tiny wings. From above, a swarm of shimmering Ice Sprites swoops down, their translucent forms glowing faintly like shards of frost."*
-  - **[Music, You woke up as a cat (playlist)](https://www.youtube.com/watch?v=hnAq7CB_ito)**
+  - **[Music, You woke up as a cat (playlist)](https://youtu.be/hnAq7CB_ito?t=0)**
 - *"The sprites circle chaotically, their movements erratic and unpredictable. Their glowing eyes glint with mischievous glee as they screech and giggle, their voices chiming like shattered icicles. One sprite zips forward, squealing*, 'You'll never make it! Turn back while you can!' *before dissolving into another fit of raucous laughter. They dart in and out of the shadows, taunting and jeering, but make no move to attack."*
 
 ![ice-sprite](stat-blocks/ice-sprite.png)
@@ -194,8 +194,8 @@
 
 ---
 
-#### **4. Kitchen**
-**[Ambience, Cozy Kitchen](https://youtu.be/SQxVJLI9zRE?t=22)**
+### **3.4 Kitchen**
+**[Ambience, Cozy Kitchen](https://youtu.be/SQxVJLI9zRE?t=0)**
 
 **Read-Aloud Text:**
 - *"The kitchen is a sugary disaster. **Flour** coats every surface like a fine layer of snow, while **candy cane shards** crunch underfoot. Half-melted gummy gumdrops stick stubbornly to walls, shelves, and countertops, creating **sticky trails** wherever they cling. The air is rich with the scent of chocolate and burnt sugar, accented by the faint, bitter tang of scorched marshmallows. Amidst the mess, the kettle on a dented cookstove emits a soft burble, as a few Kringle Elves attempt to have tea as quietly as possible."*
@@ -214,11 +214,11 @@
 
 ---
 
-#### **5. Candy Storage**
+### **3.5 Candy Storage**
 
-**[Ambience, Cozy Fireplace and Winter Storm](https://www.youtube.com/watch?v=yJjZfrx1nog)**
+**[Ambience, Cozy Fireplace and Winter Storm](https://youtu.be/yJjZfrx1nog?t=0)**
 
-**[Music, Cozy Christmas with Snow and Writing Sounds](https://youtu.be/K6W8Amgi3ek?t=11805)**
+**[Music, Cozy Christmas with Snow and Writing Sounds](https://youtu.be/K6W8Amgi3ek?t=0)**
 
 **Read-Aloud Text**
 - *"The storage room is a scene of saccharine chaos. Flour dusts every surface, hanging faintly in the air with each step. Candy cane shards crunch underfoot, while unknown sticky streaks coat the walls and ceiling. Burlap bags lie ripped open, spilling heaps of unknown powders into careless piles. On a high shelf, a lone cupcake remains untouched, its frosting perfectly swirled, standing out like a proud sentinel clad in white armor."*
@@ -236,8 +236,8 @@
 
 ---
 
-#### **6. Extra Storage**
-**[Ambience, Winter Wind](https://www.youtube.com/watch?v=1WY15_9xhcg)**
+### **3.6 Extra Storage**
+**[Ambience, Winter Wind](https://youtu.be/1WY15_9xhcg?t=0)**
 
 **Read-Aloud Text**
 - *"The smashed door hangs crookedly on its hinges, barely clinging to the frame as the scent of burning sugar and scorched wood still clings to the wind."*
@@ -246,7 +246,7 @@
 
 **Actions and Outcomes**
 - **If the party engages the Frost Goblins:**
-  - **[Music, BattleBlock Theater](https://www.youtube.com/watch?v=Y0u9Hs5fgzE)**
+  - **[Music, BattleBlock Theater](https://youtu.be/Y0u9Hs5fgzE?t=0)**
   - The Frost Goblins are **hostile** and immediately attack to protect their mischief and destruction.
 
 
@@ -272,15 +272,15 @@
 
 ---
 
-### **4. The Workshop Lower Levels**
+## **4. The Workshop Lower Levels**
 
 ![workshop-underground](maps/dm/workshop-underground.png)
 
-**[Ambience, Snowfall with Crackling Fireplace](https://www.youtube.com/watch?v=XFidh8FLE40)**
+**[Ambience, Snowfall with Crackling Fireplace](https://youtu.be/XFidh8FLE40?t=0)**
 
-**[Music, I must rest here a moment](https://www.youtube.com/watch?v=IXsWr2CK4SI)**
+**[Music, I must rest here a moment](https://youtu.be/IXsWr2CK4SI?t=0)**
 
-#### **4.1 Entrance Corridor *(Accessed via 3. Large Common Area)***
+### **4.1 Entrance Corridor *(Accessed via 3. Large Common Area)***
 **Read-Aloud Text**
 - *"The stairs end abruptly, depositing you into a dimly lit room where the air feels heavier, thick with dust and a palpable sense of unease. Before you stand two massive wooden doors, their splintered remains blown off their hinges as if some unimaginable force tore them apart. Fragments of wood and metal litter the floor, evidence of violent entry."*
 - **When the players peek through the doors:**
@@ -288,7 +288,7 @@
 
 ---
 
-#### **4.2 Foyer**
+### **4.2 Foyer**
 **Read-Aloud Text**
 - *"You step into a small entryway, the air carrying the same uneasy stillness as the room outside. One door hangs precariously off its hinges, leaning against the frame. The chamber beyond looms in the faint glow, its details obscured in half-light."*
 
@@ -311,7 +311,7 @@
 ![christmas-tree-mimic](portraits/monsters/no-bg/christmas-tree-mimic.png)
 ![christmas-tree-mimic](stat-blocks/mimic.png)
    - Players must roll **Passive Perception** against the **Mimic's Stealth check** to detect its nature.
-     - **[Music, When you've realized you've made a terrible mistake](https://www.youtube.com/watch?v=ggt9Lz6FzLg)**
+     - **[Music, When you've realized you've made a terrible mistake](https://youtu.be/ggt9Lz6FzLg?t=0)**
      - **Failed Check:** The Mimic surprises the party, lashing out with garland and lights to Grapple **1d3 players** upon physical contact.
      - **Successful Check:** The players notice the tree's unnaturally subtle movements, allowing them to approach cautiously or avoid it altogether.
 - **Engaging the Monsters in the Clock's Center:**
@@ -362,9 +362,9 @@
 
 ### **4.4 Toy Storage**
 
-**[Ambience, Snowfall with Crackling Fireplace](https://www.youtube.com/watch?v=XFidh8FLE40)**
+**[Ambience, Snowfall with Crackling Fireplace](https://youtu.be/XFidh8FLE40?t=0)**
 
-**[Music, I must rest here a moment](https://www.youtube.com/watch?v=IXsWr2CK4SI)**
+**[Music, I must rest here a moment](https://youtu.be/IXsWr2CK4SI?t=0)**
 
 **Read-Aloud Text**
 - *"This room is a chaotic scene of fear and mischief. In the far corner, a group of Kringle Elves huddles together, their small forms trembling as their wide eyes dart about in panic. Above them, **four Frosty-Winged Kobolds** circle like vultures, their translucent wings shimmering as they beat the air with an unsettling rhythm. Their shrill laughter echoes through the space as they taunt the elves, occasionally diving low to send icy chills skittering across the ground."*
@@ -379,7 +379,7 @@
 
 **Actions and Outcomes**
 - **If the party engages the Frosty-Winged Kobolds and Ice Sprites in combat:**
-  - **[Music, You are a spy who is about to be exposed](https://youtu.be/khRJMiquAjA?list=PLNNcnzpsYSXNI5iiiPY9qwtkGNnbfFOw-&t=690)**
+  - **[Music, You are a spy who is about to be exposed](https://youtu.be/khRJMiquAjA?t=688)**
   - **Frosty-Winged Kobolds:**
     - The Kobolds use their flight advantage, harassing the party from the air.
     - They employ their **icy breath** and **frost claws** to slow and damage adventurers, focusing on keeping their distance.
@@ -406,7 +406,7 @@
 
 **Actions and Outcomes**
 - **When the players spin the handle:**
-  - **[Music, A Playlist for Eating at 3AM](https://youtu.be/qJPqVgRXUMY?list=PLNNcnzpsYSXNI5iiiPY9qwtkGNnbfFOw-&t=1505)**
+  - **[Music, A Playlist for Eating at 3AM](https://www.youtube.com/watch?v=qJPqVgRXUMY&t=1505s)**
   - *"As the handle begins to spin, the soft strains of a merry **holiday tune** fill the air. The notes ring out perfectly clear and unwavering, cutting through the tension and offering a brief glimpse of what life at the North Pole might have once been--a moment of pure, unbroken cheer. Then, with a sharp* pop, *the lid springs open, and from the box emerges a colorful, cheerful Jack. His painted smile widens, his bright eyes twinkle, and in a jolly voice, he tilts his head and asks,* 'What would you like from Santa this year?'*"*
 - **If the party responds sincerely:**
   - Jack listens intently, nodding sagely before disappearing back into the box.
@@ -424,9 +424,9 @@
 
 ### **4.6. Spiral Staircase**
 
-**[Ambience, Snowfall with Crackling Fireplace](https://www.youtube.com/watch?v=XFidh8FLE40)**
+**[Ambience, Snowfall with Crackling Fireplace](https://youtu.be/XFidh8FLE40?t=0)**
 
-**[Music, I must rest here a moment](https://www.youtube.com/watch?v=IXsWr2CK4SI)**
+**[Music, I must rest here a moment](https://youtu.be/IXsWr2CK4SI?t=0)**
 
 **Read-Aloud Text**
 - *"The staircase spirals downward, its cold, worn stone steps descending into the shadowed depths below. Once-festive string lights cling to the walls, their soft glow casting hues of red and green across the narrow passage. The cheerful colors, meant to inspire joy, now seem unsettlingly out of place. The lights flicker sporadically, their dim illumination creating long, shifting shadows that dance in the corners, as though the darkness itself is alive."*
@@ -483,9 +483,9 @@
 
 ### **4.8. Santa's Office**
 
-**[Music, Winter Bookstore with Muffled Jazz](https://www.youtube.com/watch?v=HO6cbtdmkIc)**
+**[Music, Winter Bookstore with Muffled Jazz](https://youtu.be/HO6cbtdmkIc?t=0)**
 
-**[Ambience, Snowfall with Crackling Fireplace](https://www.youtube.com/watch?v=XFidh8FLE40)**
+**[Ambience, Snowfall with Crackling Fireplace](https://youtu.be/XFidh8FLE40?t=0)**
 
 **Read-Aloud Text**
 - *"As you descend the stairs, the air grows noticeably warmer, carrying with it the comforting scent of pine and cinnamon. The faint sound of jingle bells floats to your ears, accompanied by the gentle crackle of a fire. The sensations are a stark contrast to the tension and chaos above, wrapping around you like a soothing embrace."*
@@ -533,7 +533,7 @@
 *Wondrous Item, Common*
 
 **Description:**
-- *"These luxurious, velvet bags are the richest, softest, silkiest, and most vibrant you’ve ever seen. Their shimmering colors glimmer with an otherworldly sheen while their drawstring ties sparkling like tinsel. Each bag exudes a strong aura of the Spirit of Christmas."*
+- *"These luxurious, velvet bags are the richest, softest, silkiest, and most vibrant you've ever seen. Their shimmering colors glimmer with an otherworldly sheen while their drawstring ties sparkling like tinsel. Each bag exudes a strong aura of the Spirit of Christmas."*
 
 - **Properties:**
   - **First Opening:** Upon opening the a potential Holiday Bag of Holding for the first time, roll a d20:
@@ -545,7 +545,7 @@
 
 ### **4.9 Santa's Secret Sanctum**
 
-**[Music, Suspense](https://www.youtube.com/watch?v=EApZmmYg_oQ)**
+**[Music, Generic Suspense](https://youtu.be/EApZmmYg_oQ?t=0)**
 
 **Read-Aloud Text**
 - *"As you descend the final staircase, the air grows colder with each step--not the familiar chill of the North Pole, but a sharp, unnatural cold that sinks into your bones. The oppressive atmosphere is heavy with magic, and a sense of foreboding grips you tightly."*
@@ -553,7 +553,7 @@
 - *"Her piercing gaze is fixed on the figures at the room's center: Santa and Carol Claus, kneeling and bound with tinsel within a similar circle of runes. Their vibrant red clothing is torn and tattered, their forms hunched in exhaustion. The light of their circle flickers weakly, but grows steadily brighter. Around the room, four glowing orbs rest on pedestals, each pulsing with an ominous white energy. The Clauses moan in pain, and for a moment, your vision flashes white."*
 - *"When the light subsides, the red in their clothing appears muted, almost washed out, while Eldara herself glows with a radiant warmth, her colors richer and more vibrant. The runes around her blaze to full intensity, and then the Clauses collapse. Their bodies and clothing turn grey, utterly devoid of color or vitality. Eldara exhales a satisfied sigh, lowering her staff as though her work is complete. She laughs softly, her voice filled with cruel delight, while Santa and Carol lie motionless on the floor."*
 
-**[Music, Christmas Music Goes Epic](https://www.youtube.com/watch?v=8QWA2nvGytw)**
+**[Music, Christmas Music Goes Epic](https://youtu.be/8QWA2nvGytw?t=0)**
 
 ![eldara](stat-blocks/eldara.png)
 ![santa-claws](stat-blocks/santa-claws.png)
@@ -589,7 +589,7 @@
 
 ---
 
-### **4.9a Encounter with Eldara**
+### **4.9.a Encounter with Eldara**
 **Read-Aloud Text**
 - *"As the final globe shatters, the magic barrier surrounding Eldara collapses with a sudden rush of energy, extinguishing the glowing runes on the floor. Eldara freezes for a moment, her expression shifting from confidence to fury. She screams, her voice echoing unnaturally through the chamber,* 'No! The power will be mine! It was always meant to be mine, and I will have it! I am the spirit of cheer! I am the voice of joy! I will be the one children adore. It is my birthright!'*"*
 - *"Eldara lifts her staff high, twirling it with a dramatic flourish before pointing it toward Santa and Carol Claus. A bright beam of sparkling red and green light shoots from the staff, wrapping around the Clauses like a shimmering ribbon. Slowly, their tired bodies float into the air, and something strange begins to happen. They grow taller--much taller--until they stand over seven feet high! Their festive clothes stretch and tear in places, their hands now tipped with long, sharp-looking fingers. Their faces look tired and serious, like they've forgotten how to smile, and their once-bright eyes dim into dark shadows."*
@@ -609,9 +609,8 @@
 
 ---
 
-### **5. Wrapping Up (and Some Unwrapping, Too)**
-
-**[Music, Two Steps From Hell Christmas Medley](https://www.youtube.com/watch?v=qOOaH6BAwvY)**
+## **5. Wrapping Up (and Some Unwrapping, Too)**
+**[Music, Two Steps From Hell Christmas Medley](https://youtu.be/qOOaH6BAwvY?t=60)**
 
 **Actions and Outcomes**
 - **Eldara's Defeat**
@@ -621,7 +620,7 @@
    - Each adventurer is granted permanent membership on Santa's **Nice List**, a rare and deeply cherished honor.
    - *"No matter what mischief ye get into, you'll always have a place on my list,"* Santa declares with a twinkle in his eye.
 
-**[Music, Animal Crossing Christmas Vibes](https://www.youtube.com/watch?v=Pvz7GZ-jPwk)**
+**[Music, Animal Crossing Christmas Vibes](https://youtu.be/Pvz7GZ-jPwk?t=0)**
 - **Reward: Gifts from Santa:**
   - Santa says he has gifts his magical **Holiday Bag of Holding**.
   - *"I've been planning these out all here,"* Santa says warmly. *"There's a little magic for everyone in there."*
@@ -643,16 +642,16 @@
 
 ---
 
-### **6. Closing the Adventure**
+## **6. Closing the Adventure**
 
-**[Ambience, Peaceful Snowing at Dusk](https://www.youtube.com/watch?v=ne7g_Os_8hM)**
+**[Ambience, Peaceful Snowing at Dusk](https://youtu.be/ne7g_Os_8hM?t=0)**
 
 **Read-Aloud Text**
 - *"As Santa's sleigh returns you all to the North Pole, the village erupts with joy. Amidst the applause and hollering, the Clauses thank you all once more, offering heartfelt words of appreciation before turning to the crowd of Kringle Elves for a speech:"*
   - **[Rocky Inspirational Speech (for reference)](https://youtu.be/D_Vg4uyYwEk?t=98)**
   - *"Let me tell ya somethin' you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place, and I don't care how tough you are, it'll beat ya to your knees and keep ya there permanently if ya let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard ya can get hit and keep movin' forward. How much ya can take and keep movin' forward. That's how winnin' is done! Now, if ya know what you're worth, then go out and get what you're worth. But ya gotta be willin' to take the hits, and not pointin' fingers sayin' ya ain't where ya wanna be 'cause of him, or her, or anybody! Cowards do that, and that ain't you! You're better than that!"*
 
-- **[Music, recalling moments of a christmas that never happened (playlist)](https://www.youtube.com/watch?v=1R7p8ur05sk)**
+- **[Music, recalling moments of a christmas that never happened (playlist)](https://youtu.be/1R7p8ur05sk?t=0)**
 - *"Santa turns to you one last time, his smile full of warmth.* 'You'll always be welcome here at the North Pole. Remember, the spirit of Christmas isn't just magic--it's the joy you bring to others. Thank you, my friends.' *He then turns around, walking hand and hand with Carol back to the Workshop."*
 - ***Siff**, **Thrinn**, **Brok**, **Kari**, and **Miles** eagerly gather you, their faces aglow with gratitude, and insist that you return with them to the Blushing Reindeer Inn. As you arrive, the warmth of the hearth greets you once more, and mugs of steaming cocoa are set before you at your familiar corner booth by the great window. As you sip the rich, spiced brew, your thoughts drift to the trials you've faced and the bonds forged along the way. The air inside hums with the murmur of friends catching up after a long time.*
 - *Beyond the frosted glass, the **crescent moon** casts its silvery light over the **snow-blanketed village**, where the **twinkling stars** seem to dance in harmony with the faint sound of **children's laughter**. The snow falls softly, blanketing Fishslap Harbor in a serene peace, as if everything is paused to celebrate the season's blessings.*
