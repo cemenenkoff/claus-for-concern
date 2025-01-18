@@ -5,9 +5,9 @@
 - *"The village of **Fishslap Harbor** nestles against the icy expanse of the frozen **Lake Silverscale**--its modest buildings blanketed by thick layers of snow. The air is crisp and still--broken only by the occasional creak of ice shifting and scraping in the harbor. Snow falls softly, its flakes drifting lazily in the dim twilight; coating the cobblestone streets and muffling every sound."*
 
 - **[Music, Christmas in Skyrim](https://youtu.be/_qgKdOlAH8w?t=0)**
-- *"At the heart of the village, the windows of the **Blushing Reindeer Inn** glow like a sunset, an inviting refuge from the winter's chill. Inside, you sit around a large dining table near the central hearth where hearty meats sizzle over the flames. The rich scents of spiced cider and roasting venison fill the air, warmly blending with the radiating heat of the crackling fireplace. The flames cast long, flickering shadows across the rough-hewn wooden beams, adding to the inn's rustic charm. Laughter and the clink of mugs echo softly, a soothing counterpoint to the biting silence outside. For now, the cares of the world seem distant, and the inn's cozy embrace shields you from the harsh grasp of winter."*
+- *"At the heart of the village, the windows of the **Blushing Reindeer Inn** glow like a sunset, an inviting refuge from the winter's chill. Inside, you sit around a large dining table with a good view of the central hearth, where hearty meats sizzle over the flames. The rich scents of spiced cider and roasting venison fill the air, warmly blending with the radiating heat of the crackling fireplace on the far wall. The flames cast long, flickering shadows across the rough-hewn wooden beams, adding to the inn's rustic charm. Laughter and the clink of mugs echo softly, a soothing counterpoint to the eerie silence outside. For now, the cares of the world seem distant, and the inn's cozy embrace shields you from the harsh grasp of winter."*
 - *"The tavern door creaks open, letting in a gust of frosty air and a flurry of snowflakes as a band of **five Kringle Elves** steps inside. At their head stands what appears to be a little girl, her rosy cheeks and determined expression framed by a thick, fur-lined white hood. The barmaid looks up from her work and calls out warmly,* "Oi, **Siff**! Take a load off an' warm yerself by the fire. I'll get yer lot some spiced cider an' a bit o' roasted pheasant stew in a tick."
-- *"A small crowd of villagers gathers near the fire, their laughter and stories rising above the clink of mugs. Among them now stands the group of Kringle Elves, their colorful winter gear and pointed hats setting them apart. **Siff**, their leader, steps forward--a small figure with piercing eyes and a presence that belies her size. Her companions, though cheerful, glance nervously at each other. One however, stares blankly into the flames, his hands trembling slightly."*
+- *"A small crowd of villagers gathers near some benches around the fireplace, their laughter and stories rising above the clink of mugs. Among them now stands the group of Kringle Elves, their colorful winter gear and pointed hats setting them apart. **Siff**, their leader, steps forward--a small figure with piercing eyes and a presence that belies her size. Her companions, though cheerful, glance nervously at each other. One however, stares blankly into the flames, his hands trembling slightly."*
 - *Siff glances around the room, her sharp eyes scanning the faces all around you. When her gaze lands on your corner table, one by a large, floor-to-ceiling window with a view of the village, she pauses. After a moment of intent observation, she motions for her companions to follow and strides purposefully toward you."*
 
 ### **0.1 Key NPCs:**
@@ -33,14 +33,14 @@
   - His broken words trail off as the other elves exchange uneasy glances.
 
 - **The Elves' Call to Action**
-  - **M**: *"It's **Santa** and **Carol Claus**, you see!"* **Miles** chimes in, eyes wide. *"They're gone--vanished like snow in spring!"*
-  - **B**: *"Taken, they were! And the whole **Workshop**'s crawling with monsters now--vicious things, all claws and teeth. We need someone who's not afraid to put things right again. What do you say?"* says **Brok**.
-  - **K**: *""If we don't move quick, **Christmas** won't just be canceled--it'll unravel! The magic that keeps the **North Pole** ticking will be gone, just like that!"* says **Kari**.
-  - **S**: *"Look, Santa's no warrior--never was. He's joy and kindness wrapped in a red coat. He needs someone with the strength to shield his magic, and, well… we tried, but we're no match for what's up there."* **Siff** pauses, leaning in with a hopeful glint. *"What about you? **Can you help us?**"*
+  - **Miles**: *"It's **Santa** and **Carol Claus**, you see!"* **Miles** chimes in, eyes wide. *"They're gone--vanished like snow in spring!"*
+  - **Brok**: *"Taken, they were! And the whole **Workshop**'s crawling with monsters now--vicious things, all claws and teeth. We need someone who's not afraid to put things right again. What do you say?"* says **Brok**.
+  - **Kari**: *""If we don't move quick, **Christmas** won't just be canceled--it'll unravel! The magic that keeps the **North Pole** ticking will be gone, just like that!"* says **Kari**.
+  - **Siff**: *"Look, Santa's no warrior--never was. He's joy and kindness wrapped in a red coat. He needs someone with the strength to shield his magic, and, well… we tried, but we're no match for what's up there."* **Siff** pauses, leaning in with a hopeful glint. *"What about you? **Can you help us?**"*
 
 ### **0.3 Siff's Final Pitch**
    - *"I'll be honest with ye--our pockets aren't exactly a-jinglin' with gold. But what we do offer, well… it's worth far more than coin. You'll earn lifetime membership on **Santa's Nice List**--aye, no matter what mischief you find yerselves in later."*
-   - *"And, as a cherry atop the snowdrift, you'll each receive one gift pulled from **Santa's Holiday Bag of Holding**. Who knows? Might be a magical trinket, might be a pair o' socks that never wear out. Either way, it'll be somethin' special, straight from the big man himself. So… what say ye?"*
+   - *"And, as a cherry atop the snowdrift, you'll each receive one gift pulled from **Santa's Holiday Bag of Holding**. Who knows? Might be a magical trinket, might be a pair o' socks that never wears out. Either way, it'll be somethin' special, straight from the big man himself. So… what say ye?"*
 
 ---
 
@@ -138,24 +138,22 @@
 ### **3.1 The Lobby**
 **[Ambience, Cozy Fireplace and Winter Storm](https://youtu.be/yJjZfrx1nog?t=0)**
 
-**[Ambience, Cozy Fireplace and Winter Storm](https://youtu.be/yJjZfrx1nog?t=0)**
-
 **Read-Aloud Text:**
-- *"The room feels more like a cozy cabin than part of a workshop. Dark wooden floorboards creak beneath your boots, and festive wallpaper, bordered in red and green, lines the walls. Artifacts from many cultures--delicate ornaments, carvings, and illustrations--are proudly displayed, giving the space a sense of unity and joy. A roaring fireplace nestled into the curved wall casts a warm, flickering glow, its flames crackling cheerfully, defying the dark and somber night beyond. The faint sounds of **Christmas music** echo throughout the halls. An open doorway across the room leads deeper into the workshop."*
+- *"The room feels more like a cozy cabin than part of a workshop. Dark wooden floorboards creak beneath your boots, and festive wallpaper, bordered in red and green, lines the walls. Artifacts from many cultures--delicate ornaments, carvings, and illustrations--are proudly displayed, giving the space a sense of unity and joy. A roaring fireplace nestled into the wall facing the entrance casts a warm, flickering glow, its flames crackling cheerfully. The faint jingling of bells echoes throughout the halls. Ahead, the door to a refreshment room or kitchen stands open."*
 
 ---
 
 ### **3.2 Common Area**
 **Read-Aloud Text:**
-- *"You step into a room that was once a warm and lively gathering place. Now, chairs, benches, and tables lie scattered and broken, their jagged edges jutting out--reminders of the chaos that unfolded here. The floor is littered with fragments of wood and torn decorations. Amid the wreckage, a pile of unwrapped presents sits atop a long table, their bright paper torn, singed, or charred. What might have been a joyful scene of gift-giving is now a grim tableau of destruction."*
+- *"You step into a curved-wall room that was once a warm and lively gathering place. Now, chairs, benches, and tables lie scattered and broken, their jagged edges jutting out--reminders of the chaos that unfolded here. The floor is littered with fragments of wood and torn decorations. Amid the wreckage, a pile of unwrapped presents sits atop a long table, their bright paper torn, singed, or charred. What might have been a joyful scene of gift-giving is now a grim tableau of destruction."*
 - *"These gifts weren't opened with eager hands or laughter--they were torn apart in malice. Their contents have been reduced to ashes and scorched fragments, while small fires smolder faintly in the corners of the room. The air carries the acrid scent of burned paper and melted ribbons, a sharp contrast to the faint, lingering smell of peppermint and holiday spices."*
 
 ---
 
 ### **3.3 Large Common Area**
 **Read-Aloud Text:**
-- *"Beyond the initial room, the space opens into a larger common area, its high ceilings and sprawling layout hinting at the joy it once held. The remnants of colorful garlands hang limply from the walls, singed at the edges, while broken decorations litter the floor. At the far corner, a massive **holiday tree** lies toppled on its side, its branches engulfed in **flames**. Ornaments dangle precariously from its smoldering boughs, dropping occasionally with faint tinkling sounds as they shatter on the ground."*
-- *"Behind the burning tree, in the farthest corner of the room, a small group of **Kringle Elves** huddle together, their faces pale with fear. They flinch at every sound, clutching one another tightly as their wide eyes dart toward the destruction around them."*
+- *"Beyond the initial room, the space opens into a larger common area, its high ceilings and sprawling layout hinting at the joy it once held. The remnants of colorful garlands hang limply from the walls, singed at the edges, while broken decorations litter the floor. In the center, a massive **holiday tree** stands miraculously erect, its branches engulfed in **flames**. Ornaments dangle precariously from its smoldering boughs, dropping occasionally with faint tinkling sounds as they shatter on the ground."*
+- *"Behind the burning tree, in the farthest corner of the room, a two **Kringle Elves** huddle together, their faces pale with fear. They flinch at every sound, clutching one another tightly as their wide eyes dart toward the destruction around them."*
 - *"To the rear of the room, a staircase leads downward into shadow. Once brightly lit, it now plunges into a dark, foreboding mystery. Above the stairs, a sign crafted from candy canes hangs askew, its painted letters spelling out **'To the Workshop Floor.'**."*
 - **If the players help the Kringle Elves:**
   - Each party member receives **1 Holiday Gift** as a reward.
